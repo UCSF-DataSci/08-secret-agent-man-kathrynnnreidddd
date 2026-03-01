@@ -1,0 +1,71 @@
+{
+  "killer": "Larry",
+  "weapon": "antler trophy",
+  "motive": "Financial gain from the treasure map",
+  "evidence": [
+    "Marcus's last text at 10:28pm indicates a confrontation over ownership of the treasure map.",
+    "The antler trophy was wiped clean of fingerprints, suggesting it was used as a weapon and then cleaned.",
+    "Larry's hiking boots were muddy, contradicting his claim of not going outside after dinner.",
+    "The unlocked back door suggests someone entered or exited without being noticed, likely Larry after the incident.",
+    "Tom noticed Larry looking pale and shaky, indicating he may have been involved in a struggle.",
+    "The journal entry reveals Larry's motive to eliminate Marcus to secure the treasure for himself."
+  ],
+  "transcript": [
+    {
+      "action": "search",
+      "detail": "Searched Living Room"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Kitchen"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Mudroom / Back Entry"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Upstairs Hallway"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Back Porch"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Marcus's Bedroom"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What were you doing around 10:28pm when Marcus sent a text to an unknown number?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Why do your hiking boots have fresh mud on them?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Did you hear anything unusual around 11pm, especially related to Diana's door?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What was the content of the photos taken by your camera between 9:04pm and 11:27"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I was in my room, engrossed in a book. I didn't hear any texts or disturbances from Marcus's phone. "
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was focused on capturing the snowfall and the way the light reflected off the snow. Most of the ph"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, those! I went for a little walk earlier in the day, you know, just to clear my head. It was "
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I didn't hear anything specific about Diana's door around 11pm. I was on the phone with my wife at t"
+    }
+  ]
+}
